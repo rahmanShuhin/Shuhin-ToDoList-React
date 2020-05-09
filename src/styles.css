@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.input {
+  background: violet;
+  border: 0px;
+  padding: 5px;
+}
+.btn1 {
+  color: white;
+  background: #ab34eb;
+  border: 0px;
+  padding: 5px 10px;
+  
+}
+li,del {
+  list-style: none;
+  background: lightblue;
+  padding-right: 50px;
+}
+.container-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+}
+.trash-1 {
+  color: green;
+  
+  
+}
+.trash-2 {
+  color: #c43025;
+  
+}
+.task-1 {
+  color: goldenrod;
+}
+.btn-1 {
+  background: none;
+  border: 0px;
+  background: tomato;
+}
+.btn-2 {
+  background: none;
+  border: 0px;
+  background: lightgray;
+}
